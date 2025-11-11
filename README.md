@@ -13,6 +13,7 @@
 - [🍔 Cardápio Online](#-cardápio-online)
   - [📋 Sumário](#-sumário)
   - [🎯 Visão Geral](#-visão-geral)
+    - [Tela Mobile](#tela-mobile)
   - [✨ Funcionalidades](#-funcionalidades)
     - [✅ Implementadas](#-implementadas)
   - [🛠 Tecnologias](#-tecnologias)
@@ -21,7 +22,6 @@
     - [Serviços Externos](#serviços-externos)
   - [📦 Instalação](#-instalação)
     - [Pré-requisitos](#pré-requisitos)
-    - [Opção 1: Clone o Repositório](#opção-1-clone-o-repositório)
 
 ---
 
@@ -34,7 +34,10 @@ O **Cardápio Online** é uma solução web frontend que permite pequenos e méd
 - **Integração WhatsApp**: Pedidos são enviados diretamente via WhatsApp Business
 - **Customização Fácil**: Estrutura modular e bem documentada
 
-**Demo ao vivo**: [caiofilardis.github.io/Cardapio-Online/](https://caiofilardis.github.io/Cardapio-Online/)
+### Tela Mobile
+![Mobile](./img/amostra/cardapio-delivery.gif)
+
+**Demo ao vivo**: [caiofilardis.github.io/Cardapio-Online/](https://caiofilardis.github.io/cardapio-delivery-online/)
 
 ---
 
@@ -129,5 +132,4 @@ O **Cardápio Online** é uma solução web frontend que permite pequenos e méd
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
 - Conexão com internet
 
-### Opção 1: Clone o Repositório
 
